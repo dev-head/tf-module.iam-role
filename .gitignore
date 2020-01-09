@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+*.sublime-*
+*ide-plugin.xml
+!.gitkeep
+.terraform
+local.ini
