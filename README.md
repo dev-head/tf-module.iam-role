@@ -5,7 +5,7 @@ Description
 -----------
 Terraform module to manage AWS IAM Roles through a single configuration object.
 
-Example found in `./example`
+[Example](./example/README.md) found in `./example`
 
 
 Todo
